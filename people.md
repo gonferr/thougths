@@ -10,4 +10,10 @@ For sure this is true! But there is something a lot worse than technical thing, 
 
 # Working with people
 Yes, I know, we have to!
-In every place I worked I noticed the following: complaints about people 
+In every place I worked I noticed the following: complaints about people.
+I knew many kind of people:
+- very good technically
+- good mentors
+- hard workers
+- technology dependents
+- technology afraid
